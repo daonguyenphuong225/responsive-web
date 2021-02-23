@@ -1,1 +1,1 @@
-<?php include_once("responsive-web.html"); ?>
+<?php include_once("home.html"); ?>
