@@ -66,17 +66,12 @@
   .link:hover::after{
     transition-duration: .15s;
   }
-
-  .content{
-    
-  }
   img {
     transition: all 0.7s ease;
     -webkit-transition: all 0.7s ease;
     -moz-transition: all 0.7s ease;
     -o-transition: all 0.7s ease;
     }
-     
     img:hover {
     transform: scale(1.2,1.);
     -webkit-transform: scale(1.2,1.2);
@@ -84,6 +79,4 @@
     -o-transform: scale(1.2,1.2);
     -ms-transform: scale(1.2,1.2);
     }
-  .abc{
-  
-  }
+ 
